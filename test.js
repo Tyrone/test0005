@@ -1,1 +1,1 @@
-Toaster.postMessage("dsfsdf")
+alert(1);
